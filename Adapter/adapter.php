@@ -29,6 +29,7 @@ class FacebookAdapter implements SocialMediaAdpter
     }
 }
 
+// user side
 function getMessageFromUser()
 {
     return "hello world!";
